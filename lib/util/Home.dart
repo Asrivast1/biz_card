@@ -28,18 +28,18 @@ class BizCard extends StatelessWidget {
         mainAxisAlignment: MainAxisAlignment.center,
         children:[
           Text(
-            "Paulo Dichone",
+            "Askand Srivastava",
             style: TextStyle(
                 fontSize: 20.9,
                 color: Colors.white,
                 fontWeight: FontWeight.w500),
           ),
-          Text("buildappswithpaulo.com"),
+          Text("asrivast.com"),
           Row(
             mainAxisAlignment: MainAxisAlignment.center,
             children:[
               Icon(Icons.person_outline),
-              Text("T: @buildappswithme")
+              Text("Kuch bhi")
             ],
           )
         ],
