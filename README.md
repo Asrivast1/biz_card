@@ -1,6 +1,7 @@
 # biz_card
 
-A new Flutter application.
+A basic business card app. This is practice business card app showcasing the usage of Container, Stack, Network Image, Box Decoration etc. using Flutter, it also
+makes use of OOP Concepts of Flutter.
 
 ## Getting Started
 
